@@ -20,7 +20,8 @@ langchain-core>=0.2.0
 langchain-community>=0.2.0
 langchain-mistralai>=0.1.0        # LangChain wrapper for Mistral API
 mistralai>=0.4.0       
-langchain-google-genai           # Official Mistral Python client
+langchain-google-genai  
+langchain-chroma         
 
 # ── RAG Pipeline ──────────────────────────────────────────────────────────────
 chromadb>=0.5.0                   # Local vector store
